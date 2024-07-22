@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/wending/static/css/main.d880186f.css",
-    "main.js": "/wending/static/js/main.20a7860f.js",
-    "static/media/promiseImg.jpg": "/wending/static/media/promiseImg.e2b4a18eb246a4d30bdf.jpg",
-    "static/media/wedding_hands.jpg": "/wending/static/media/wedding_hands.b517334587e0c9bea10b.jpg",
-    "static/media/album_photo3.jpg": "/wending/static/media/album_photo3.a1a6a7bb97b8024935d8.jpg",
-    "static/media/timer_bg1.png": "/wending/static/media/timer_bg1.f36988ed6c04622761cc.png",
-    "static/media/album_photo2.jpg": "/wending/static/media/album_photo2.53260edcde5033af70f4.jpg",
-    "static/media/album_photo1.jpg": "/wending/static/media/album_photo1.3e1c637e9ad5867c25f9.jpg",
-    "static/media/history.jpg": "/wending/static/media/history.a05e8e9b31d94d3a29bc.jpg",
-    "static/media/homeIMG.jpg": "/wending/static/media/homeIMG.45a9a63e4cdcd0367494.jpg",
-    "static/media/310427.svg": "/wending/static/media/310427.fd646614137dee888c08.svg",
-    "static/media/vk.svg": "/wending/static/media/vk.3ac08c744ad2af3d838f2f2dd66046ee.svg",
-    "static/media/vk_black.svg": "/wending/static/media/vk_black.df0a5bdd7237ff9c37f3b6f56ddbb8a5.svg",
-    "static/media/counter_2.svg": "/wending/static/media/counter_2.0c12afc8e06c80dec28552dd2be2402c.svg",
-    "static/media/counter_1.svg": "/wending/static/media/counter_1.87bc4aa6304a6f1488ace905d546a770.svg",
-    "index.html": "/wending/index.html",
-    "static/media/check.svg": "/wending/static/media/check.39ada9f88912bf92a48b132e7daaeedb.svg",
-    "main.d880186f.css.map": "/wending/static/css/main.d880186f.css.map",
-    "main.20a7860f.js.map": "/wending/static/js/main.20a7860f.js.map"
+    "main.css": "/wendding/static/css/main.515ecf57.css",
+    "main.js": "/wendding/static/js/main.4aff0b99.js",
+    "static/media/promiseImg.jpg": "/wendding/static/media/promiseImg.e2b4a18eb246a4d30bdf.jpg",
+    "static/media/wedding_hands.jpg": "/wendding/static/media/wedding_hands.b517334587e0c9bea10b.jpg",
+    "static/media/album_photo3.jpg": "/wendding/static/media/album_photo3.a1a6a7bb97b8024935d8.jpg",
+    "static/media/timer_bg1.png": "/wendding/static/media/timer_bg1.f36988ed6c04622761cc.png",
+    "static/media/album_photo2.jpg": "/wendding/static/media/album_photo2.53260edcde5033af70f4.jpg",
+    "static/media/album_photo1.jpg": "/wendding/static/media/album_photo1.3e1c637e9ad5867c25f9.jpg",
+    "static/media/history.jpg": "/wendding/static/media/history.a05e8e9b31d94d3a29bc.jpg",
+    "static/media/homeIMG.jpg": "/wendding/static/media/homeIMG.45a9a63e4cdcd0367494.jpg",
+    "static/media/310427.svg": "/wendding/static/media/310427.fd646614137dee888c08.svg",
+    "static/media/vk.svg": "/wendding/static/media/vk.3ac08c744ad2af3d838f2f2dd66046ee.svg",
+    "static/media/vk_black.svg": "/wendding/static/media/vk_black.df0a5bdd7237ff9c37f3b6f56ddbb8a5.svg",
+    "static/media/counter_2.svg": "/wendding/static/media/counter_2.0c12afc8e06c80dec28552dd2be2402c.svg",
+    "static/media/counter_1.svg": "/wendding/static/media/counter_1.87bc4aa6304a6f1488ace905d546a770.svg",
+    "index.html": "/wendding/index.html",
+    "static/media/check.svg": "/wendding/static/media/check.39ada9f88912bf92a48b132e7daaeedb.svg",
+    "main.515ecf57.css.map": "/wendding/static/css/main.515ecf57.css.map",
+    "main.4aff0b99.js.map": "/wendding/static/js/main.4aff0b99.js.map"
   },
   "entrypoints": [
-    "static/css/main.d880186f.css",
-    "static/js/main.20a7860f.js"
+    "static/css/main.515ecf57.css",
+    "static/js/main.4aff0b99.js"
   ]
 }
