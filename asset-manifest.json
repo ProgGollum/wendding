@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wendding/static/css/main.14539b12.css",
+    "main.css": "/wendding/static/css/main.bc78f10c.css",
     "main.js": "/wendding/static/js/main.930924ce.js",
     "static/media/promiseImg.jpg": "/wendding/static/media/promiseImg.e2b4a18eb246a4d30bdf.jpg",
     "static/media/wedding_hands.jpg": "/wendding/static/media/wedding_hands.b517334587e0c9bea10b.jpg",
@@ -17,11 +17,11 @@
     "static/media/counter_1.svg": "/wendding/static/media/counter_1.87bc4aa6304a6f1488ace905d546a770.svg",
     "index.html": "/wendding/index.html",
     "static/media/check.svg": "/wendding/static/media/check.39ada9f88912bf92a48b132e7daaeedb.svg",
-    "main.14539b12.css.map": "/wendding/static/css/main.14539b12.css.map",
+    "main.bc78f10c.css.map": "/wendding/static/css/main.bc78f10c.css.map",
     "main.930924ce.js.map": "/wendding/static/js/main.930924ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.14539b12.css",
+    "static/css/main.bc78f10c.css",
     "static/js/main.930924ce.js"
   ]
 }
