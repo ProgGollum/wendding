@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/wendding/static/css/main.bc78f10c.css",
-    "main.js": "/wendding/static/js/main.930924ce.js",
+    "main.css": "/wendding/static/css/main.b506b4ad.css",
+    "main.js": "/wendding/static/js/main.f4ffaa18.js",
     "static/media/promiseImg.jpg": "/wendding/static/media/promiseImg.e2b4a18eb246a4d30bdf.jpg",
-    "static/media/wedding_hands.jpg": "/wendding/static/media/wedding_hands.b517334587e0c9bea10b.jpg",
     "static/media/album_photo3.jpg": "/wendding/static/media/album_photo3.a1a6a7bb97b8024935d8.jpg",
     "static/media/timer_bg1.png": "/wendding/static/media/timer_bg1.f36988ed6c04622761cc.png",
     "static/media/album_photo2.jpg": "/wendding/static/media/album_photo2.53260edcde5033af70f4.jpg",
@@ -17,11 +16,11 @@
     "static/media/counter_1.svg": "/wendding/static/media/counter_1.87bc4aa6304a6f1488ace905d546a770.svg",
     "index.html": "/wendding/index.html",
     "static/media/check.svg": "/wendding/static/media/check.39ada9f88912bf92a48b132e7daaeedb.svg",
-    "main.bc78f10c.css.map": "/wendding/static/css/main.bc78f10c.css.map",
-    "main.930924ce.js.map": "/wendding/static/js/main.930924ce.js.map"
+    "main.b506b4ad.css.map": "/wendding/static/css/main.b506b4ad.css.map",
+    "main.f4ffaa18.js.map": "/wendding/static/js/main.f4ffaa18.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc78f10c.css",
-    "static/js/main.930924ce.js"
+    "static/css/main.b506b4ad.css",
+    "static/js/main.f4ffaa18.js"
   ]
 }
